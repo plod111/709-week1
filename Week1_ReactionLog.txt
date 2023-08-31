@@ -1,5 +1,9 @@
 Write a reaction log (150 or more words). This log should be completed after reading/viewing all this week’s materials:
 a. Textbook Preface.
+It's been a few years since i've loooked at this text, but recall it's a good one.  
+I'm excitited to start using it via github and putting that tool to use - something i've been meaning to learn how to use for years now, but never gotten around to it.  As there really wasnt a strong reason as to devoting the time to learning how to use it...
+The section that jumps out as potentially most interesting at this point is the Javadoc Appendix - perhaps i'll spend some time there and brush up on some of those documentation standards.  This could well prove to be a good section to reference for the students - they always struggle to understand and implement proper documentation.  I've used basic templates in the past - like a standard framework they have to copy, but to give them a reading could be good also.
+
 b. Textbook Chapter 1.
 c. Textbook Chapter 2.
 d. Textbook Chapter 3.
