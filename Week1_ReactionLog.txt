@@ -5,6 +5,10 @@ I'm excitited to start using it via github and putting that tool to use - someth
 The section that jumps out as potentially most interesting at this point is the Javadoc Appendix - perhaps i'll spend some time there and brush up on some of those documentation standards.  This could well prove to be a good section to reference for the students - they always struggle to understand and implement proper documentation.  I've used basic templates in the past - like a standard framework they have to copy, but to give them a reading could be good also.
 
 b. Textbook Chapter 1.
+Good to look over these fundamentals.  I've taught them all for years, but usually in an organic fashion.  I might take this chapter and excerpts from it for the classroom.
+Right now, just want to figure out how to setup the dev environment on my computer: Ubuntu, CLI integrated with github and VSC.  --> will need to spend some time here to figure all this out.  Indeed for this weeks exercises!
+I've often attempted to have students set up there own local dev env on their own computers for class, but this is always a pain of a task.  So I've in recent years tended to use online platforms more and more, like Trinket.  Nonetheless, I still like the idea of a local env so will do so again myself.
+
 c. Textbook Chapter 2.
 d. Textbook Chapter 3.
 e. Coding Mentors video (item #5).
