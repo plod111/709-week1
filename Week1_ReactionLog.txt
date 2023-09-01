@@ -11,6 +11,7 @@ I've often attempted to have students set up there own local dev env on their ow
 
 c. Textbook Chapter 2.
 Good to simply browse through the content - as review, but primarily thinking of it as a potential official source for my Java course in the Spring.
+Spent some time setting up VSC and github and am now editing this file along with the text exercises inside of VSC.
 
 d. Textbook Chapter 3.
 
