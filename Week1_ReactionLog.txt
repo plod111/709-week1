@@ -14,7 +14,8 @@ Good to simply browse through the content - as review, but primarily thinking of
 Spent some time setting up VSC and github and am now editing this file along with the text exercises inside of VSC.
 
 d. Textbook Chapter 3.
-
+Classical temp convert program...  groaned initially but was good to review and do it myself over again as not having dealt with Java for some time, I was reminded ever so graciously by the compiler that import statements must come first, above all else... ahuh.  :-P
+Good to review all this stuff over again however.  And good tip at the end re: reading in integers..  Not sure if i ever knew that one!
 
 e. Coding Mentors video (item #5).
 Good to review.  But otherwise was someting I was already well aware of.
