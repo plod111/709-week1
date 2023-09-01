@@ -10,9 +10,16 @@ Right now, just want to figure out how to setup the dev environment on my comput
 I've often attempted to have students set up there own local dev env on their own computers for class, but this is always a pain of a task.  So I've in recent years tended to use online platforms more and more, like Trinket.  Nonetheless, I still like the idea of a local env so will do so again myself.
 
 c. Textbook Chapter 2.
+Good to simply browse through the content - as review, but primarily thinking of it as a potential official source for my Java course in the Spring.
+
 d. Textbook Chapter 3.
+
+
 e. Coding Mentors video (item #5).
+Good to review.  But otherwise was someting I was already well aware of.
+
 f. Zamansky video (item #6b).
+Similarly, good to review, but didn't learn anything new here.
 
 2. Answer the following:
 a. What are the top things you learned from these out-of-class readings, videos, and exercises?
