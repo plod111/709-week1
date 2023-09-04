@@ -16,6 +16,8 @@ Spent some time setting up VSC and github and am now editing this file along wit
 d. Textbook Chapter 3.
 Classical temp convert program...  groaned initially but was good to review and do it myself over again as not having dealt with Java for some time, I was reminded ever so graciously by the compiler that import statements must come first, above all else... ahuh.  :-P
 Good to review all this stuff over again however.  And good tip at the end re: reading in integers..  Not sure if i ever knew that one!
+Was good to do a few fundamentals style exercises.  Been a minute since Java, and programming in general..  always takes a bit to get the brain back into the line of thinking.
+A whole bunch of basic fundamental excercises are useful in the classroom - however I often find that some kids fly through them and others perpetually struggle and then the whole class becomes fractured between those who can and those who just struggle until the very last day.
 
 e. Coding Mentors video (item #5).
 Good to review.  But otherwise was someting I was already well aware of.  Definitely worth sharing with students however.
