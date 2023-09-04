@@ -28,7 +28,6 @@ public class GuessStarter {
         userGuess = in.nextInt();
         //in.nextInt(); // Read newline blank
         System.out.println("Your guess is: " + userGuess);
-
         
         System.out.println("The number I was thinking of is: " + number);
         System.out.println("You were off by: " + Math.abs(number - userGuess));
